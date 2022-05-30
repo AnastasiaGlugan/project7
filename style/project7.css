@@ -1,0 +1,61 @@
+.form {
+    padding: 50px;
+    background:  rgb(222, 238, 243);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.name_form {
+    color: rgb(24, 21, 187);
+    
+
+}
+
+.name {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+    
+   
+}
+
+.surname {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+}
+
+.date_of_birth {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+}
+
+.floor {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+}
+
+.login {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+}
+
+.password {
+    width: 200px;
+    float: left;
+    font-style: italic;
+    color: blue;
+}
+
