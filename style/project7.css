@@ -11,18 +11,14 @@
 
 .name_form {
     color: rgb(24, 21, 187);
-    
-
-}
+    }
 
 .name {
     width: 200px;
     float: left;
     font-style: italic;
     color: blue;
-    
-   
-}
+    }
 
 .surname {
     width: 200px;
